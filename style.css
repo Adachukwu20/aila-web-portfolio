@@ -151,4 +151,22 @@ footer {
     font-size: 2rem;
   }
 
+
+}
+
+.contact-buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.whatsapp {
+  background: #25D366;
+  color: white;
+}
+
+.whatsapp:hover {
+  background: #1ebe5d;
 }
